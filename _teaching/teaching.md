@@ -7,23 +7,15 @@ permalink: /teaching/
 
 Instructor
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* ECON252
 
 Teaching Assistant
 ======
 * PhD Level
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * ECON615
 
 * Master Level
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * ECON511
 
 * Undergraduate Level
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * ECON340
