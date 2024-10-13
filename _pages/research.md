@@ -7,11 +7,11 @@ permalink: /research/
 
 Job Market Paper
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* XXXXXXXXXXXX
 
 Work in Progress
 ======
-* PhD Level
+* xxxxxx
   <!-- * Github University -->
 
-* Master Level
+* xxxxxxx
