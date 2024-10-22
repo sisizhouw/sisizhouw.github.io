@@ -8,8 +8,8 @@ profile:
   align: right
   image: #prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Email: zhou1053@purdue.edu</p>
+  # more_info: >
+  #  <p>Email: zhou1053@purdue.edu</p>
   #   <p>Purdue University</p>
 
 # news: true # includes a list of news items
@@ -28,3 +28,5 @@ I am Ph.D. candidate in Economics at Purdue University.
 My research fields are Spatial Economics, Urban Economics, Applied Economics, and Applied Econometrics.
 
 I am on the 2024-2025 job market.
+
+Email: zhou1053@purdue.edu
