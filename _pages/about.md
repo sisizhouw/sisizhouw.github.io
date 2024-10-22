@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: #prof_pic.jpg
+  image: pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #  <p>Email: zhou1053@purdue.edu</p>
@@ -25,7 +25,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am Ph.D. candidate in Economics at Purdue University.
 
-My research fields are Spatial Economics, Urban Economics, Applied Economics, and Applied Econometrics.
+My research fields are Spatial Economics, Urban Economics, Applied Microeconomics, and Applied Econometrics.
 
 I am on the 2024-2025 job market.
 

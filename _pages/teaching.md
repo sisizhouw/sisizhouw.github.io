@@ -19,7 +19,7 @@ nav_order: 2
 ##### Undergraduate
 - ECON370: International Trade, [Spring 2022, Spring 2023, Spring 2024]
 - ECON385: Labor Economics, [Summer 2023]
-- ECON466: International Economics, [Fall 2020]
+- ECON466: International Economics, [Spring 2022]
 
 ##### Master
 - ECON572: Econometrics II, [Summer 2023]
