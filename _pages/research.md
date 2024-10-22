@@ -1,23 +1,21 @@
 ---
-layout: profiles
+layout: page
 permalink: /research/
 title: Research
 description: 
 nav: true
 nav_order: 1
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: 
-    content: rsc_rs.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-  - align: right
-    image: 
-    content: rsc_bike.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
 ---
 
+---
+
+### Residential Sorting and Access to Consumption (Job Market Paper)
+<!-- - ECON252: Macroeconomics (Undergraduate, Online), [Summer 2021, Summer 2022]
+    - Krannert Certificate for Outstanding Teaching -->
+
+---
+
+### The Heterogeneous Spillover of Bike Sharing Usage: How Far It Can Reach
+*with Xiaoyan Zhou*
+
+---
