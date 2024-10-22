@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>Ph.D. Candidate in Economics</p>
+  more_info: >
+    <p>Email: zhou1053@purdue.edu</p>
   #   <p>Purdue University</p>
 
 # news: true # includes a list of news items
